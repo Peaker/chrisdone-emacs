@@ -1,5 +1,9 @@
 # Emacs configuration
 
+Dependencies
+
+    The configuration depends on emacs 24.3 or newer.
+
 To use
 
     $ git submodule init
